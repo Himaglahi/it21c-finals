@@ -1,5 +1,5 @@
 package finalsAssessment;
-
+//package 213c;
 public class School{
 	private String school_name = "Northern Bukidnon State College" ;
 	
